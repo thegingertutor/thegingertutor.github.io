@@ -164,7 +164,7 @@ certifications:
       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
       Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
+# projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -189,7 +189,7 @@ projects:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
+# oss:
   title: OSS Contributions
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -206,7 +206,7 @@ oss:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+# publications:
   title: Publications
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
