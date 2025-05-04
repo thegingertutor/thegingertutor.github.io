@@ -15,8 +15,8 @@ sidebar:
   # Sidebar links
   email: thegingertutor@gmail.com
   phone: +44 07XXXXXXXXX
-  timezone: Edinburgh UK # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: UK Passport
+  timezone: Edinburgh UK
+  citizenship: UK Passport Holder
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   # linkedin: alandoe
   github: thegingertutor
@@ -30,7 +30,7 @@ sidebar:
       level: Native
 
   interests:
-    title: Skills
+    title: Additional Skills
     info:
     - item: Football Coaching
       link:
@@ -47,65 +47,25 @@ career-profile:
 education:
   title: Education
   info:
+
+ - degree: PDA Education Support Assistance, PDA Youth Work, NWA Forest Kindergarten, SVQ3 Children and Young People
+    university: Independent Study
+    time: 2022-2024
+
   - degree: BSc in Music Technology
     university: University of West of Scotland
     time: 2007-2011
-    details: |
-      Studied a range of media disciplines.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Pupil Support Assistant, Youth Worker and Childcare Practitioner
+    time: 2021 - Present
+    company: Scottish Local Authority
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      I have worked across many different job roles with my local council. I have experience of some description at every age range including exposure to nursery settings, a number of primary schools, one secondary school, and several out of school clubs. This includes both faith schools and non-denominational ones. My duties run the gamut from personal care and providing medication and meals, to preparing and differentiating mainstream classwork to suit the needs and abilities of the children I work with. Some settings were more casual and concerned with ensuring that young people have a safe space to meet with their friends. Working in teams and forming effective relationships with the children were of parmount importance.
+  
 
 
 
