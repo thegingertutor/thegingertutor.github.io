@@ -4,19 +4,19 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
+  name: NAME HERE
   tagline: The Ginger Tutor
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: thegingertutor@gmail.com
   phone: +44 07XXX XXXXXX
-  timezone: Edinburgh, GMT # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: United Kingdom Passport Holder
+  timezone: Edinburgh, Scotland # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: UK Passport Holder
   # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   # linkedin: alandoe
   # xing: alandoe
@@ -48,20 +48,16 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Objective
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Experienced educator looking to expand his WFH opportunities and gain international students.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: SVQ3 in Children and Young People, PDA in Youth Work, 
+	PDA in Education Support Assistance, NWA in Forest Kindergarten
+    university: SQA Qualifications
+    time: 2022 - 2024
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,8 +66,8 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
+  - degree: BSc in Music Technology
+    university: University of the West of Scotland
     time: 2007 - 2011
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -85,32 +81,26 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Pupil Support Assistant
+    time: 2021 - Present
+    company: Fife Council, various schools
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      I worked as a PSA or teaching aide at three primary schools and one secondary school,
+	where I supported learners tackling exams, helped differentiate work to suit their needs/abilities,
+	supervised outdoor and indoor areas during breaks from classes, and worked with teachers and other
+	professionals towards the best outcomes for the children and young people I was paired with.
+        - My experience includes a spell working in a nursery within one school
+        - I attended both faith and non denominational schools as work settings
+  - role: ESL Teacher
+    time: 2021 - Present
+    company: TopOnlineTeachers
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      I taught a range of English classes digitally ranging from basic conversation practice with early
+	 learners to exam preparation with foreign students hoping to work and study in other countries. 
+	These were conducted via online mediums like Zoom with digital resources like textbooks, past papers,
+	news articles and other media being the tools I used to present concepts and examine ability.
+        - I supported a student to successfully transition to living in the UK and attend a school here
+        - I was given complete freedom to create a curriculum for students as I saw fit
   - role: UI Developer
     time: 2012 - 2014
     company: Amazon, London
@@ -247,7 +237,7 @@ certifications:
       He is a great employee!
 
 # skills:
-  title: Skills &amp; Proficiency
+#  title: Skills &amp; Proficiency
 
   toolset:
   - name: Python & Django
